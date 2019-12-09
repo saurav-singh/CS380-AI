@@ -1,0 +1,10 @@
+Saurav Singh
+CS 380 - AI
+Assignment 2
+
+- Tested everything and works.
+
+- Result (visited nodes) for default board:
+    Random - x
+    BFS - 86
+    A* - 45
